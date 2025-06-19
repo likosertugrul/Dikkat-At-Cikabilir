@@ -1,2 +1,2 @@
-# Dikkat-At-kabilir
+# Dikkat-At-Cikabilir
 image processing
